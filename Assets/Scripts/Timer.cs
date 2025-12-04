@@ -43,7 +43,7 @@ Transform filho = transform.Find(nomeDoFilho);
         filho.gameObject.SetActive(true);
 
 
-             Time.timeScale = 0f;	
+             Time.timeScale = 1f;	
 	     
 	}    
 
